@@ -3,7 +3,7 @@
   ## This project will create a README file
   ## Installation not required
   ## undefined
-  ## Answer questions to easily generate a README file
+  ## Answer questions to easily generate README file
   ## Jeramy Sena
   ## 
     ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
