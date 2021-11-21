@@ -132,5 +132,3 @@ function init() {
 
 // Function call to initialize app
 init();
-
-// trying to save file
